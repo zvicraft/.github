@@ -15,8 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=zvicraft&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
-  <!--## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() 
--->
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zvicraft) 
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
