@@ -19,7 +19,7 @@ An israeli developer
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zvicraft&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zvicraft)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zvicraft&icon=0&color=0)](https://visitcount.itsvg.in)
